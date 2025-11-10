@@ -1,17 +1,17 @@
 ---
-title: "Reference"
-description: ""
+title: Reference
+description: This is the description of this :)
 summary: ""
-date: 2023-09-07T16:12:37+02:00
-lastmod: 2023-09-07T16:12:37+02:00
+date: 2023-09-07T14:12:37.000Z
+lastmod: 2023-09-07T14:12:37.000Z
 draft: false
 weight: 900
 toc: true
 sidebar:
   collapsed: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ""
+  description: ""
+  canonical: ""
+  noindex: false
 ---
