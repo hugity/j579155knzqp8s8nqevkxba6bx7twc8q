@@ -6,16 +6,16 @@ date: 2023-09-07T14:27:22.000Z
 lastmod: 2023-09-07T14:27:22.000Z
 draft: false
 weight: 50
-categories: []
-tags: []
-contributors: []
-pinned: false
-homepage: false
 seo:
   title: ""
   description: ""
   canonical: ""
   noindex: false
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: true
 basicSettings:
   lead: Example blog posts are super important tee hee
 ---
