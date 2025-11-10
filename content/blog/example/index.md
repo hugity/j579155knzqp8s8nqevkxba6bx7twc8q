@@ -14,7 +14,7 @@ seo:
 categories: []
 tags: []
 contributors: []
-pinned: false
+pinned: true
 homepage: true
 basicSettings:
   lead: Example blog posts are super important tee hee
