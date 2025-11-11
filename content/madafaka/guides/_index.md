@@ -1,4 +1,5 @@
 ---
-title: "guides"
-date: 2025-11-10
+title: guides
+date: 2025-11-10T00:00:00.000Z
 ---
+These are guides
