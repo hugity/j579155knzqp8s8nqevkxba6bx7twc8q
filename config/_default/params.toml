@@ -1,6 +1,6 @@
 images = [ "cover.png" ]
 description = "Congrats on setting up a new Doks project!"
-mainSections = [ "docs" ]
+mainSections = [ "docs", "madafaka" ]
 title = "My Docs"
 
 [doks]
