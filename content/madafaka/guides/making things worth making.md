@@ -15,6 +15,8 @@ Document
 
 ## Talk about making things
 
+### Talking is a superpower
+
 Advertise
 
 # How to sell made things
